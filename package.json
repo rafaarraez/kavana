@@ -1,7 +1,7 @@
 {
   "name": "kavana",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://rafaarraez.github.io/kavana",
   "dependencies": {
     "axios": "^0.18.0",
